@@ -7,7 +7,7 @@ int main(int argc, char const *argv[])
     cout<<"nruegheeheapgr给Herr配合io"<<endl;
     cout<<"nruegheeheapgr给Herr配合io"<<endl;
     cout<<"nruegheeheapgr给Herr配合io"<<endl;
-    cout<<"nruegheeheapgr给Herr配合io"<<endl;
+    cout<<"nruegheeheapgr给Hefyjhvhjrr配合io"<<endl;
     cout<<"nruegheeheapgr给Herr配合io"<<endl;
     string s;
     cin>>s;
