@@ -1,0 +1,31 @@
+#include <iostream>
+using namespace std;
+
+// Function to calculate the area of a circle
+double area(double radius) {
+    return 3.14159 * radius * radius;  // Area = π * r^2
+}
+
+// Function to calculate the area of a rectangle
+double area(double length, double width) {
+    return length * width;  // Area = length * width
+}
+
+// Function to calculate the area of a trapezoid
+double area(double base1, double base2, double height) {
+    return 0.5 * (base1 + base2) * height;  // Area = 0.5 * (b1 + b2) * h
+}
+
+int main() {
+    double radius = 5.0;
+    double length = 10.0, width = 4.0;
+    double base1 = 6.0, base2 = 8.0, height = 4.0;
+
+    // Calling the overloaded area functions
+    cout << "Area of the circle: " << area(radius) << endl;
+    cout << "Area of the rectangle: " << area(length, width) << endl;
+    cout << "Area of the trapezoid: " << area(base1, base2, height) << endl;
+
+    return 0;
+}
+

@@ -1,0 +1,6 @@
+Hello World!
+This is a C programming example.
+I am learning how to read and write to files.
+Uppercase letters in each line are counted here.
+C programming is interesting and fun.
+Lets count how many uppercase letters are in each line.
